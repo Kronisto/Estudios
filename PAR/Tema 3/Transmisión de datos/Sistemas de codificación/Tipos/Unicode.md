@@ -1,0 +1,5 @@
+* Estándar creado para representar todo tipo de textos y símbolos, de múltiples lenguajes y tecnologías. Es sencillo y único, capaz de reemplazar todos los existentes hasta el momento.
+
+* Es mantenido por el Consorcio **Unicode** una organización sin ánimo de lucro, formada por empresas (*Microsoft, Apple, Adobe, IBM, Oracle, SAP, Google,...*), Universidades y particulares. **ISO/IEC** mantiene acuerdos con el Consorcio **Unicode** para compatibilizar sus estándares.
+
+* Cada carácter se asigna a un punto de código, que es un nº entero entre 0 y 1114111. Se hace referencia a los puntos de código **Unicode** mediante la notación en formato "*U*+**nnnn**", donde **nnnn** es el nº hexadecimal del punto de código, o mediante una cadena de texto que describe el punto de código. *Ej*: la letra en minúscula “a” puede ser representada por *U*+**0061** o la cadena de texto "*LATIN SMALL LETTER A*".

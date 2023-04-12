@@ -1,0 +1,1 @@
+La comunicación puede realizarse en ambos sentidos. El **emisor** puede covertirse en **receptor** al tiempo que el receptor cambia su papel a emisor. La comunicación no puede ser simultánea en los 2 sentidos, cada estación debe estar funcionando en modo **receptor** o en modo **emisor**.

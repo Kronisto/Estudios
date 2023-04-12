@@ -1,0 +1,3 @@
+Las contaminaciones o deformaciones de la señal pueden conducir a pérdidas de información. Algunas deformaciones y contaminaciones son fácilmente evitables. Otras por su naturaleza no lo son tanto. Se pueden utilizar diversas técnicas para paliar sus efectos.
+
+A continuación analizaremos los problemas más comunes que afectan a las comunicaciones, centrándonos en los medios eléctricos por ser los mas utilizados.

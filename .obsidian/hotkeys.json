@@ -1,0 +1,20 @@
+{
+  "switcher:open": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [],
+      "key": "F1"
+    }
+  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ]
+}

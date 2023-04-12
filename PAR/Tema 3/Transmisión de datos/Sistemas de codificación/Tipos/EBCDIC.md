@@ -1,0 +1,3 @@
+* Código estándar de 8 bits usado por mainframes de IBM. Es un código binario que representa caracteres alfanuméricos, controles y signos de puntuación. Cada carácter está compuesto por 8 bits = 1 byte, define un total de 256 caracteres.
+
+* Existen muchas versiones ("*codepages*") con caracteres diferentes, respectivamente sucesiones diferentes de los mismos caracteres. *Ej*: al menos hay 9 versiones nacionales  con Latín 1 caracteres con sucesiones diferentes.

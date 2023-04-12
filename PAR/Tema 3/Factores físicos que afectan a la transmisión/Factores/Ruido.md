@@ -1,0 +1,3 @@
+Alteración de la [[Señales analógicas#AMPLITUD|amplitud]] (*potencia*) de la señal por causas no identificables. Aunque puede ser causado por interferencias de diversas fuentes, a diferencia de las interferencias propiamente dichas, el ruido tiene un carácter aleatorio, y no puede ser corregido.
+
+***Ejem*** --> cuando se mezclan diversas interferencias y no es posible determinar cuales son las señales que interfieren

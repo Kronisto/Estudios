@@ -1,0 +1,1 @@
+Hemos visto que un código hace corresponder a cada símbolo un nº que lo identifica unívocamente. Este nº habitualmente es tratado como información binaria por los equipos informáticos que procesan y transmiten la información mediante señales eléctricas.

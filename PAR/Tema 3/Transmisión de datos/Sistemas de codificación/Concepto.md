@@ -1,0 +1,1 @@
+Veamos primero algunos sistemas de codificación estandarizados para la representación de alfabetos humanos en sistemas de procesamiento automatizado de información

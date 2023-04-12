@@ -1,0 +1,1 @@
+Las funciones de **emisor** y **receptor** permanecen fijas y cada estación tiene un papel fijo que no puede cambiar. La transmisión de datos siempre es en 1 sentido: **emisor** a **receptor**. El **emisor** no puede recibir y el **receptor** no puede transmitir.
