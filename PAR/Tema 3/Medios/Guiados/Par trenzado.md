@@ -6,7 +6,7 @@
 
 * Un cable puede contener varios pares, cada 1 de los cuales se utiliza para transmitir distintas señales. Los cables de pares más habituales suelen llevar 1, 2, o 4 pares, pero existen normas que contemplan agrupaciones de 25, 50, 125, 250 y hasta 3.600 pares.
 
-* Este tipo de cable ofrece unas prestaciones inferiores a los [[Cable coaxial|cables coaxiales]] y de [[PAR/Tema 3/Medios/Guiados/Fibra óptica/Concepto|fibra óptica]], tanto en distancia máxima de cada tramo, como en capacidad de transmisión. En largas y medias distancias ha venido siendo reemplazado, 1º por el [[Cable coaxial|cable coaxial]], y más recientemente por la [[PAR/Tema 3/Medios/Guiados/Fibra óptica/Concepto]].
+* Este tipo de cable ofrece unas prestaciones inferiores a los [[Cable coaxial|cables coaxiales]] y de [[PAR/Tema 3/Medios/Guiados/Fibra óptica/Concepto|fibra óptica]], tanto en distancia máxima de cada tramo, como en capacidad de transmisión. En largas y medias distancias ha venido siendo reemplazado, 1º por el [[Cable coaxial|cable coaxial]], y más recientemente por la [[PAR/Tema 3/M[[Cable coaxial]]edios/Guiados/Fibra óptica/Concepto]].
 
 * Es la más económica para tender líneas de comunicaciones con una buena capacidad de transmisión y baja tasa de errores a distancias cortas. Es de los medios más utilizados para transmisión de datos en LAN, ya que a distancias cortas ofrece una de las mejores relaciones entre € y velocidad de transmisión.
 

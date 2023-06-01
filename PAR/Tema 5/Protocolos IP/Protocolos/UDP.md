@@ -1,0 +1,3 @@
+#PAR #TEMA_5 
+
+Permite el envío de *datagramas* de forma rápida en redes IP sin establecer previamente una conexión, dado que el propio *datagrama* incorpora suficiente información sobre el destinatario en su cabecera. Tampoco tiene confirmación ni control de flujo, por lo que los paquetes pueden adelantarse unos a otros; y tampoco se sabe si ha llegado correctamente, ya que no hay confirmación de entrega o recepción

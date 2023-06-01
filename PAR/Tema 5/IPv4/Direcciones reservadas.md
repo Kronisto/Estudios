@@ -8,7 +8,7 @@ Algunas **IP** se reservan para usos específicos y no pueden ser asignadas a un
 
 * 127.xx.yy.zz están reservadas para pruebas de realimentación, los paquetes enviados a esa IP se procesan localmente como si fueran de entrada. 
 
-* La [[rfc 1918.pdf]] establece que las IP comprendidas entre los siguientes valores son IP privadas:
+* La [[rfc 1918.pdf|rfc 1918]] establece que las IP comprendidas entre los siguientes valores son IP privadas:
 	* *10.0.0.0 - 10.255.255.255*
 	* *172.16.0.0 - 172.31.255.255*
 	* *192.168.0.0 - 192.168.255.255*

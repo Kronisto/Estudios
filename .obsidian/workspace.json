@@ -4,37 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab88884778e0ded",
+        "id": "4d5db6e0fa8cf1b8",
         "type": "tabs",
         "children": [
           {
-            "id": "55cce8e297accad1",
+            "id": "4dde85af69853da3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PAR/Tema 5/IPv4/Direcciones reservadas.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4f54d59df2ddbef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -79,12 +60,21 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6442d7326d9cdb26",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "567ed1ce29da0129",
@@ -100,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,52 +156,55 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "e4f54d59df2ddbef",
+  "active": "852742ff71de3d84",
   "lastOpenFiles": [
-    "PAR/Tema 5/IPv4/Direcciones reservadas.md",
-    "Untitled.md",
-    "PAR/🏛️ DOCU OFICIAL/rfc 1918.pdf",
-    "PAR/Tema 5/Encaminamiento/Tabla de encaminamiento.md",
-    "rfc 1918.md",
-    "PAR/Tema 5/Encaminamiento/Protocolo de Encaminamiento.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/¿Qué es TCP?.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/Modelo del servicio orientado a conexión TCP.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/UDP.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/Cabezera TCP.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/ARP.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/RARP.md",
+    "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP",
+    "PAR/🏛️ DOCU OFICIAL/rfc 903.pdf",
+    "PAR/Tema 5/Protocolos IP/Protocolos/ICMP.md",
+    "Pasted image 20230421101604.png",
+    "PAR/Tema 5/Protocolos IP/¿Qué es una IP?.md",
+    "¿Qué es el DHCP?.md",
+    "PAR/Tema 5/DHCP/¿Qué es el DHCP?.md",
+    "PAR/Tema 5/IPv6/Implementación gradual.md",
+    "PAR/🏛️ DOCU OFICIAL/rfc 792.pdf",
+    "PAR/🏛️ DOCU OFICIAL/rfc 791.pdf",
+    "PAR/Tema 5/Protocolos IP/Protocolos",
+    "PAR/Tema 5/Protocolos IP",
+    "Pasted image 20230421092704.png",
+    "PAR/Tema 5/IPv6/Direccionamiento IPv6.md",
     "PAR/Tema 5/Encaminamiento/Encaminador.md",
-    "PAR/Tema 3/Ley de Ohm.md",
-    "PAR/Tema 3/Medios fisicos de transmisión.md",
-    "PAR/Tema 2/2. Arquitecturas basada en niveles/División en niveles.md",
-    "PAR/Tema 2/2. Arquitecturas basada en niveles/Comunicación entre capas.md",
-    "**tabla de encaminamiento**.md",
-    "PAR/Tema 5/Encaminamiento",
-    "PAR/Tema 5/IPv4/Mascara de red.md",
+    "PAR/Tema 5/Encaminamiento/Protocolo de Encaminamiento.md",
+    "PAR/Tema 5/Encaminamiento/Tabla de encaminamiento.md",
+    "PAR/Tema 5/IPv6/Tipos de direcciones.md",
+    "PAR/Tema 5/IPv4/Direcciones reservadas.md",
+    "PAR/Tema 5/Pila dual IPv4 - IPv6.md",
+    "PAR/Tema 5/IPv6/Mejoras respecto IPv4.md",
+    "PAR/Tema 5/Supernetting (CIDR).md",
+    "PAR/Tema 5/Subnetting (VLSM).md",
+    "PAR/Tema 5/IPv6/Formato Cabezera IPv6.md",
+    "PAR/Tema 5/Imagens/Cabezera IPv6.png",
     "PAR/Tema 5/IPv4/Formato cabezera IPv4.md",
-    "PAR/Tema 5/IPv4/Direccionamiento de red.md",
-    "**RFC 1918**.md",
-    "PAR/🏛️ DOCU OFICIAL",
-    "📜 PLANTILLAS/PAR.md",
-    "📜 PLANTILLAS/PAR 1.md",
-    "PAR/Tema 5/IPv4/Direcciones reservadas",
+    "Pasted image 20230419095421.png",
+    "PAR/Tema 5/DHCP/¿Qué es el DHCP?.md",
+    "DHCP.md",
+    "PAR/Tema 5/DHCP",
+    "PAR/Tema 5/PALABREJAS.md",
+    "PAR/🏛️ DOCU OFICIAL/rfc 2460.pdf",
+    "rfc 2460.pdf",
+    "Untitled.canvas",
+    "PAR/🏛️ DOCU OFICIAL/rfc 1918.pdf",
     "PAR/Tema 5/Imagens/Mascara de red.png",
-    "PLANTILLAS/Untitled 1.md",
-    "📜 PLANTILLAS",
     "PAR/Tema 5/Imagens/Direccionamiento.png",
-    "PAR/Tema 5/IPv4",
-    "PAR/Tema 5/Plantilla",
-    "PAR/Tema 5/Protocolo IP.md",
-    "Untitled 1.md",
     "PAR/Tema 5/Imagens/Cabezera IPv4.png",
     "PAR/Tema 4/Untitled.canvas",
     "Pasted image 20230223115127.png",
-    "PAR/Tema 5/Imagens",
-    "PAR/Tema 5",
-    "LM/Trabajo página completa/Ide31as.md",
-    "ISO/Tema 3/Los sistemas transaccionales.md",
-    "Ingles/Pasado/Continuous.md",
     "LM/Trabajo página completa/Images/Ejemplo-Que-Hace.png",
-    "Pasted image 20230216134013.png",
-    "LM/Trabajo página completa/Images/Ejemplo-Que-Hace-movil.png",
-    "Pasted image 20230216133930.png",
-    "LM/Trabajo página completa/Images/Ejemplo-Inicio-personaje.png",
-    "PAR/Tema 3/Señales analógicas.md",
-    "GBD/Tema 2/Arquitectura ANSI-X3-SPARC.md",
-    "GBD/Tema 2/Concepto.md"
+    "Pasted image 20230216134013.png"
   ]
 }
