@@ -11,8 +11,13 @@
             "id": "4dde85af69853da3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "GBD/Tema 1/Para la gestión y ayuda en.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -73,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5,
-    "collapsed": true
+    "width": 290.5
   },
   "right": {
     "id": "567ed1ce29da0129",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "GBD/Tema 1/Para la gestión y ayuda en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "GBD/Tema 1/Para la gestión y ayuda en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "GBD/Tema 1/Para la gestión y ayuda en.md"
+              }
             }
           },
           {
@@ -156,8 +164,13 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "852742ff71de3d84",
+  "active": "4dde85af69853da3",
   "lastOpenFiles": [
+    "GBD/Tema 1/Concepto y función de un sistema de información (SI).md",
+    "GBD/Tema 1/Componentes de sistema de información.md",
+    "GBD/Tema 2/La arquitectura y la indepencia físico-lógica.md",
+    "GBD/Tema 2/Objetivos SGBD.md",
+    "GBD/Tema 2/SGBD distribuidos.md",
     "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/¿Qué es TCP?.md",
     "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/Modelo del servicio orientado a conexión TCP.md",
     "PAR/Tema 5/Protocolos IP/Protocolos/UDP.md",
@@ -187,14 +200,9 @@
     "PAR/Tema 5/IPv6/Mejoras respecto IPv4.md",
     "PAR/Tema 5/Supernetting (CIDR).md",
     "PAR/Tema 5/Subnetting (VLSM).md",
-    "PAR/Tema 5/IPv6/Formato Cabezera IPv6.md",
     "PAR/Tema 5/Imagens/Cabezera IPv6.png",
-    "PAR/Tema 5/IPv4/Formato cabezera IPv4.md",
     "Pasted image 20230419095421.png",
-    "PAR/Tema 5/DHCP/¿Qué es el DHCP?.md",
-    "DHCP.md",
     "PAR/Tema 5/DHCP",
-    "PAR/Tema 5/PALABREJAS.md",
     "PAR/🏛️ DOCU OFICIAL/rfc 2460.pdf",
     "rfc 2460.pdf",
     "Untitled.canvas",
