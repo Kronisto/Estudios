@@ -1,3 +1,0 @@
-Utiliza 1 solo canal para la transmisión de datos. En este método, todo el [[PAR/Tema 3/Transmisión de datos/Modos de transmisión/Banda ancha/Concepto|ancho de banda]] puede enviar o recibir. Además, el proceso completo de transmisión de datos se realiza a través de 1 cable o canal. La transmisión no puede procesar el proceso de envío y recepción juntos.
-
-Puede utilizar su capacidad total para transmitir todos los datos. Sirve para enviar los datos a una distancia corta. Utiliza ethernet en este modelo de transmisión completo.
