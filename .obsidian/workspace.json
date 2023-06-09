@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4dde85af69853da3",
+            "id": "60384723faf89868",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GBD/Tema 1/Para la gestión y ayuda en.md",
+                "file": "Ingles/Tiempos verbales.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 290.5
+    "width": 290.5,
+    "collapsed": true
   },
   "right": {
     "id": "567ed1ce29da0129",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GBD/Tema 1/Para la gestión y ayuda en.md",
+                "file": "Ingles/Tiempos verbales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GBD/Tema 1/Para la gestión y ayuda en.md",
+                "file": "Ingles/Tiempos verbales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GBD/Tema 1/Para la gestión y ayuda en.md"
+                "file": "Ingles/Tiempos verbales.md"
               }
             }
           },
@@ -146,7 +147,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -164,8 +166,14 @@
       "card-board:CardBoard": false
     }
   },
-  "active": "4dde85af69853da3",
+  "active": "60384723faf89868",
   "lastOpenFiles": [
+    "Ingles/Pasado/Continuous.md",
+    "Ingles/Tiempos verbales.md",
+    "Ingles/Pasado/Perfect.md",
+    "GBD/Tema 1/Base de datos/Ventajas y Desventajas BD vs FC.md",
+    "GBD/Tema 1/Base de datos/Comparación SF vs BD.md",
+    "GBD/Tema 1/Para la gestión y ayuda en.md",
     "GBD/Tema 1/Concepto y función de un sistema de información (SI).md",
     "GBD/Tema 1/Componentes de sistema de información.md",
     "GBD/Tema 2/La arquitectura y la indepencia físico-lógica.md",
@@ -194,12 +202,6 @@
     "PAR/Tema 5/Encaminamiento/Encaminador.md",
     "PAR/Tema 5/Encaminamiento/Protocolo de Encaminamiento.md",
     "PAR/Tema 5/Encaminamiento/Tabla de encaminamiento.md",
-    "PAR/Tema 5/IPv6/Tipos de direcciones.md",
-    "PAR/Tema 5/IPv4/Direcciones reservadas.md",
-    "PAR/Tema 5/Pila dual IPv4 - IPv6.md",
-    "PAR/Tema 5/IPv6/Mejoras respecto IPv4.md",
-    "PAR/Tema 5/Supernetting (CIDR).md",
-    "PAR/Tema 5/Subnetting (VLSM).md",
     "PAR/Tema 5/Imagens/Cabezera IPv6.png",
     "Pasted image 20230419095421.png",
     "PAR/Tema 5/DHCP",
