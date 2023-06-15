@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "96d66d221824c6ac",
+        "id": "33782c9988283e67",
         "type": "tabs",
         "children": [
           {
-            "id": "162b155c02ab158b",
+            "id": "79bd842ba6909067",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "JOURNAL/2023-06-15.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "JOURNAL/2023-06-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "JOURNAL/2023-06-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "JOURNAL/2023-06-15.md"
+              }
             }
           },
           {
@@ -136,9 +145,17 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "87ffbc16247ec48b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,11 +170,17 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "card-board:CardBoard": false
+      "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "852742ff71de3d84",
+  "active": "79bd842ba6909067",
   "lastOpenFiles": [
+    "📜 PLANTILLAS/Journal.md",
+    "JOURNAL/2023-06-15.md",
+    "Untitled.canvas",
+    "JOURNAL/2023-06-09.md",
+    "JOURNAL",
+    "📜 PLANTILLAS/Untitled",
     "Estudios personales/Redes",
     "Estudios personales/Linux",
     "Estudios personales/Python",
@@ -184,21 +207,15 @@
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/Cabezera TCP.md",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/ARP.md",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/RARP.md",
-    "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP",
-    "ASIR/1º año/PAR/🏛️ DOCU OFICIAL/rfc 903.pdf",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/ICMP.md",
     "Pasted image 20230421101604.png",
     "PAR/Tema 5/Protocolos IP/¿Qué es una IP?.md",
     "¿Qué es el DHCP?.md",
     "PAR/Tema 5/DHCP/¿Qué es el DHCP?.md",
     "ASIR/1º año/PAR/Tema 5/IPv6/Implementación gradual.md",
-    "ASIR/1º año/PAR/🏛️ DOCU OFICIAL/rfc 792.pdf",
     "Pasted image 20230421092704.png",
-    "ASIR/1º año/PAR/Tema 5/IPv6/Direccionamiento IPv6.md",
-    "ASIR/1º año/PAR/Tema 5/Encaminamiento/Encaminador.md",
     "ASIR/1º año/PAR/Tema 5/Imagens/Cabezera IPv6.png",
     "Pasted image 20230419095421.png",
-    "Untitled.canvas",
     "ASIR/1º año/PAR/Tema 5/Imagens/Mascara de red.png",
     "ASIR/1º año/PAR/Tema 5/Imagens/Direccionamiento.png",
     "ASIR/1º año/PAR/Tema 5/Imagens/Cabezera IPv4.png",

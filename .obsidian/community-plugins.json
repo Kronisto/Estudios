@@ -1,8 +1,6 @@
 [
   "obsidian-emoji-toolbar",
-  "obsidian-admonition",
   "table-editor-obsidian",
-  "card-board",
   "code-block-copy",
   "obsidian-dictionary-plugin",
   "emoji-shortcodes",
@@ -11,5 +9,6 @@
   "multi-column-markdown",
   "obsidian-git",
   "url-into-selection",
-  "obsidian-reading-time"
+  "obsidian-reading-time",
+  "calendar"
 ]
