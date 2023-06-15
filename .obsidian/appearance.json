@@ -2,7 +2,7 @@
   "accentColor": "#ffffff",
   "theme": "obsidian",
   "interfaceFontFamily": "MonoLisa",
-  "cssTheme": "Minimal",
+  "cssTheme": "Obsidian gruvbox",
   "baseFontSize": 17,
   "baseFontSizeAction": true
 }
