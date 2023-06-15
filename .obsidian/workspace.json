@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "33782c9988283e67",
+        "id": "03abfe0306f5923b",
         "type": "tabs",
         "children": [
           {
-            "id": "79bd842ba6909067",
+            "id": "28c96690cb4973c1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JOURNAL/2023-06-15.md",
+                "file": "ASIR/1º año/GBD/Tema 2/Arquitectura ANSI-X3-SPARC.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JOURNAL/2023-06-15.md",
+                "file": "ASIR/1º año/GBD/Tema 2/Arquitectura ANSI-X3-SPARC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JOURNAL/2023-06-15.md",
+                "file": "ASIR/1º año/GBD/Tema 2/Arquitectura ANSI-X3-SPARC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JOURNAL/2023-06-15.md"
+                "file": "ASIR/1º año/GBD/Tema 2/Arquitectura ANSI-X3-SPARC.md"
               }
             }
           },
@@ -147,7 +147,7 @@
             }
           },
           {
-            "id": "87ffbc16247ec48b",
+            "id": "a008b405bf45ee76",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -155,12 +155,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,15 +168,25 @@
       "canvas:Create new canvas": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "daily-notes:Abrir la nota de hoy": false
+      "daily-notes:Abrir la nota de hoy": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "79bd842ba6909067",
+  "active": "28c96690cb4973c1",
   "lastOpenFiles": [
+    "ASIR/1º año/GBD/Tema 2/Concepto.md",
+    "ASIR/1º año/GBD/Tema 2/Funcionamiento.md",
+    "ASIR/1º año/GBD/Tema 2/Objetivos SGBD.md",
+    "ASIR/1º año/GBD/Tema 2/SGBD distribuidos.md",
+    "ASIR/1º año/FHW/Tema 1/Ordenadores.md",
+    "ASIR/1º año/FHW/Tema 1/Elementos de la información.md",
+    "ASIR/1º año/FHW/Tema 1/La memoria principal y sus elementos.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "ASIR/1º año/FHW/Tema 1/images/Pasted image 20221201210837.png",
+    "📜 PLANTILLAS/PAR.md",
     "📜 PLANTILLAS/Journal.md",
     "JOURNAL/2023-06-15.md",
-    "Untitled.canvas",
     "JOURNAL/2023-06-09.md",
     "JOURNAL",
     "📜 PLANTILLAS/Untitled",
@@ -199,20 +208,12 @@
     "ASIR/1º año/GBD/Tema 1/Concepto y función de un sistema de información (SI).md",
     "ASIR/1º año/GBD/Tema 1/Componentes de sistema de información.md",
     "ASIR/1º año/GBD/Tema 2/La arquitectura y la indepencia físico-lógica.md",
-    "ASIR/1º año/GBD/Tema 2/Objetivos SGBD.md",
-    "ASIR/1º año/GBD/Tema 2/SGBD distribuidos.md",
     "PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/¿Qué es TCP?.md",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/Modelo del servicio orientado a conexión TCP.md",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/UDP.md",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/Protocolo TCP/Cabezera TCP.md",
     "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/ARP.md",
-    "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/RARP.md",
-    "ASIR/1º año/PAR/Tema 5/Protocolos IP/Protocolos/ICMP.md",
     "Pasted image 20230421101604.png",
-    "PAR/Tema 5/Protocolos IP/¿Qué es una IP?.md",
-    "¿Qué es el DHCP?.md",
-    "PAR/Tema 5/DHCP/¿Qué es el DHCP?.md",
-    "ASIR/1º año/PAR/Tema 5/IPv6/Implementación gradual.md",
     "Pasted image 20230421092704.png",
     "ASIR/1º año/PAR/Tema 5/Imagens/Cabezera IPv6.png",
     "Pasted image 20230419095421.png",
@@ -221,7 +222,6 @@
     "ASIR/1º año/PAR/Tema 5/Imagens/Cabezera IPv4.png",
     "PAR/Tema 4/Untitled.canvas",
     "Pasted image 20230223115127.png",
-    "ASIR/1º año/LM/Trabajo página completa/Images/Ejemplo-Que-Hace.png",
-    "Pasted image 20230216134013.png"
+    "ASIR/1º año/LM/Trabajo página completa/Images/Ejemplo-Que-Hace.png"
   ]
 }
