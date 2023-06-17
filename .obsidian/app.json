@@ -8,5 +8,6 @@
   "spellcheckLanguages": [
     "en-GB",
     "es"
-  ]
+  ],
+  "focusNewTab": true
 }
